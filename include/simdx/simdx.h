@@ -1,3 +1,7 @@
+// simdx - https://github.com/mamodev/smidx
+// Author: mamodev (Marco Morozzi)
+// SPDX-License-Identifier: MIT
+
 #pragma once
 
 // simdx: portable SIMD for kernels written once and compiled once per ISA.
